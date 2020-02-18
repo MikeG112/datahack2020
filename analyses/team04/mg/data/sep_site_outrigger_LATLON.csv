@@ -1,27 +1,27 @@
-,site_id,site_name,site_location,address,Lat,Lon,description
-0,1,Mobile,3rd @ Girard,,39.969770000000004,-75.14152,Mobile Site
-1,2,Mobile,10th @ Fairmount,,39.96537,-75.1541,Mobile Site 
-2,3,Mobile,11th @ Indiana,,39.99781,-75.14824,Mobile Site
-3,4,Mobile,13th @ Washington,,39.93761,-75.16459,Mobile Site
-4,5,Headquarters - Friday,2913-15 Kensington Ave,2913-15 Kensington Ave,39.992885,-75.119643,In Building Exchange
-5,6,Mobile,37th @ Brown,,39.96808,-75.1968,Mobile Site
-6,7,Headquarters - Monday,2913-15 Kensington Ave,2913-15 Kensington Ave,39.992885,-75.119643,Emergency Packs
-7,8,Headquarters - Wednesday,"2913-15 Kensington Ave, Philadelphia, PA 19134",2913-15 Kensington Ave,39.992885,-75.119643,Emergency Packs
-8,9,Mobile,Broad @ Passyunk,,39.92557,-75.16941,Mobile Site
-9,10,Mobile,54th @ Market,,39.960390000000004,-75.22865999999999,Mobile Site
-10,11,Mobile,Bridge @ Platt,,39.89844,-75.33039000000001,Mobile Site
-11,12,Headquarters - Tuesday,2913-15 Kensington Ave,2913-15 Kensington Ave,39.992885,-75.119643,In Building Exchange
-12,13,Headquarters - Thursday,2913-15 Kensington Ave,2913-15 Kensington Ave,39.992885,-75.119643,Emergency Packs
-13,14,Mobile,Front @ Wolf,,39.91915,-75.14889000000001,Mobile Site
-14,15,Mobile,Ben Franklin,,39.960957,-75.174247,Mobile Site
-15,16,Mobile,Front @ Wolf,,39.91915,-75.14889000000001,Mobile Site
-16,17,PPP Program,MCM,2913 Kensington Ave,39.992885,-75.119643,Case management for HIV positive individuals
-17,18,PPP Program,Drop CM,2913 Kensington Ave,39.992885,-75.119643,Case management for individuals coming in to our drop-in center
-18,19,PPP Program,STEP,2913 Kensington Ave,39.992885,-75.119643,In building Suboxone program 
-19,20,PPP Program,Nav Center,2913 Kensington Ave,39.992885,-75.119643,Shelter
-20,21,PPP Program,Respite,2913 Kensington Ave,39.992885,-75.119643,Shelter
-21,22,PPP Program,Testing,2913 Kensington Ave,39.992885,-75.119643,HIV/HCV Testing
-22,23,PPP Program,Mobile STEP,2913 Kensington Ave,39.992885,-75.119643,Mobile Suboxone program
-23,24,PPP Partners,SOL Collective,19134,39.992885,-75.119643,Partner Oganization that does on foot outreach/syringe distribution
-24,25,PPP Partners,Project SAFE,19134,39.992885,-75.119643,FSW focused harm reduction organization
-25,26,PPP Program,Wound Care,2913 Kensington Ave,39.992885,-75.119643,Wound care operates out of mobile Suboxone clinic in Kensington
+site_id,site_name,site_location,address,Lat,Lon,description
+1,Mobile,3rd @ Girard,,39.96977,-75.14152,Mobile Site
+2,Mobile,10th @ Fairmount,,39.96537,-75.1541,Mobile Site 
+3,Mobile,11th @ Indiana,,39.99781,-75.14824,Mobile Site
+4,Mobile,13th @ Washington,,39.93761,-75.16459,Mobile Site
+5,Headquarters - Friday,2913-15 Kensington Ave,2913-15 Kensington Ave,,,In Building Exchange
+6,Mobile,37th @ Brown,,39.96808,-75.1968,Mobile Site
+7,Headquarters - Monday,2913-15 Kensington Ave,2913-15 Kensington Ave,,,Emergency Packs
+8,Headquarters - Wednesday,"2913-15 Kensington Ave, Philadelphia, PA 19134",2913-15 Kensington Ave,,,Emergency Packs
+9,Mobile,Broad @ Passyunk,,39.92557,-75.16941,Mobile Site
+10,Mobile,54th @ Market,,39.96039,-75.22866,Mobile Site
+11,Mobile,Bridge @ Platt,,39.89844,-75.33039,Mobile Site
+12,Headquarters - Tuesday,2913-15 Kensington Ave,2913-15 Kensington Ave,,,In Building Exchange
+13,Headquarters - Thursday,2913-15 Kensington Ave,2913-15 Kensington Ave,,,Emergency Packs
+14,Mobile,Front @ Wolf,,39.91915,-75.14889,Mobile Site
+15,Mobile,Ben Franklin,,,,Mobile Site
+16,Mobile,Front @ Wolf,,39.91915,-75.14889,Mobile Site
+17,PPP Program,MCM,2913 Kensington Ave,,,Case management for HIV positive individuals
+18,PPP Program,Drop CM,2913 Kensington Ave,,,Case management for individuals coming in to our drop-in center
+19,PPP Program,STEP,2913 Kensington Ave,,,In building Suboxone program 
+20,PPP Program,Nav Center,2913 Kensington Ave,,,Shelter
+21,PPP Program,Respite,2913 Kensington Ave,,,Shelter
+22,PPP Program,Testing,2913 Kensington Ave,,,HIV/HCV Testing
+23,PPP Program,Mobile STEP,2913 Kensington Ave,,,Mobile Suboxone program
+24,PPP Partners,SOL Collective,19134,,,Partner Oganization that does on foot outreach/syringe distribution
+25,PPP Partners,Project SAFE,19134,,,FSW focused harm reduction organization
+26,PPP Program,Wound Care,2913 Kensington Ave,,,Wound care operates out of mobile Suboxone clinic in Kensington
